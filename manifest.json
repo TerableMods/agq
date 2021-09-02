@@ -1,0 +1,25 @@
+{
+    "files": {
+        "index.js": "9342b0dccef215fdb2430ec237ddf0b6e2562fc6bdaeb1b4080d8cf3a16f85f7",
+        "module.json": "d5fac73e3241e3397d6d94f0671ec2e910e7f0ff7fce552d170a92f99915a266",
+        "quests.json": "ce99f18eb0a0e6ec450a8b3716a015b8c937e59808f088673d030629751e22c8",
+        "settings_migrator.js": "081642dd49abd8dd3cbb803e31ee0e1c03e02696b4b015018591b7e5eba74598",
+        "settings_structure.js": "84ce9e485fbf6f39477dc0733aba3fb19ccff756785261c7c40e4a29a5cb03a7"
+    },
+    "defs": {
+        "S_FIELD_EVENT_ON_ENTER": 0,
+        "C_RETURN_TO_LOBBY": 0,
+        "S_COMPLETE_EVENT_MATCHING_QUEST": 1,
+        "S_FIELD_EVENT_PROGRESS_INFO": 1,
+        "S_UPDATE_GUILD_QUEST_STATUS": 1,
+        "C_REQUEST_FINISH_GUILD_QUEST": 1,
+        "C_REQUEST_START_GUILD_QUEST": 1,
+        "S_FIELD_POINT_INFO": 1,
+        "C_COMPLETE_DAILY_EVENT": 1,
+        "C_COMPLETE_EXTRA_EVENT": 1,
+        "C_REQUEST_FIELD_POINT_REWARD": 1,
+        "C_REQUEST_ONGOING_FIELD_EVENT_LIST": 1,
+        "C_REQUEST_RECV_DAILY_TOKEN": 1,
+        "S_GUILD_QUEST_LIST": 1        
+    }
+}
